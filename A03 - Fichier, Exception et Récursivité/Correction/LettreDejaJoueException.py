@@ -1,0 +1,2 @@
+class LettreDejaJoueException(Exception):
+    pass
